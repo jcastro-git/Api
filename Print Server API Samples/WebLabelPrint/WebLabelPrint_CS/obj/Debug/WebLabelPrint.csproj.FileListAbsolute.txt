@@ -1,0 +1,2 @@
+C:\Desarrollos\SDK\Print Server API Samples\WebLabelPrint\WebLabelPrint_CS\obj\Debug\WebLabelPrint.csproj.CoreCompileInputs.cache
+C:\Desarrollos\SDK\Print Server API Samples\WebLabelPrint\WebLabelPrint_CS\obj\Debug\WebLabelPrint.csprojAssemblyReference.cache
